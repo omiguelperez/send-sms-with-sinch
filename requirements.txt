@@ -1,0 +1,2 @@
+Flask==1.1.1  # https://github.com/pallets/flask
+clx-sdk-xms==1.0.0  # https://github.com/clxcommunications/sdk-xms-python
